@@ -11,4 +11,4 @@ I am a part of the "Platform Regulation and Operations in the Sharing Economy" r
 I currently organise the CORE brown bag.
 
 Email: [robin.ngjuipin@uclouvain.be](mailto:robin.ngjuipin@uclouvain.be)\
-CV: [link]({{ site.url }}/CV/) [pdf]({{ site.url }}/download/cv.pdf)
+CV: [link]({{ site.url }}/cv/) [pdf]({{ site.url }}/download/cv.pdf)
