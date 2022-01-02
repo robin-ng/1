@@ -26,6 +26,6 @@ Dean's Honours List, University of Melbourne (2015)
 
 
 *yet to be completed\
-[updated pdf (dec 2022)]({{ site.url }}/download/file.pdf)
+[updated pdf (dec 2022)]({{ site.url }}/download/cv.pdf)
 
 
