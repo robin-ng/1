@@ -1,7 +1,7 @@
 ---
 layout: page
 title: short vitae 
-permalink: /CV/
+permalink: /cv/
 ---
 
 ###### Education
