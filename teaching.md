@@ -5,7 +5,7 @@ permalink: /teaching/
 ---
 
 ##### Instructor
-Economic Ideas and models for Business, Singapore University of Social Sciences\
+Economic Ideas and Models for Business, Singapore University of Social Sciences\
 Statistics, Singapore University of Social Sciences
 
 ##### Teaching Assistant
