@@ -9,7 +9,7 @@ permalink: /cv/
 MPhil in Economics, Singapore Management University (2019)\
 BSc in Economics, Singapore Management University (2018)
 
-##### Visits
+##### Research Visits
 *Paris School of Economics (02/2022-05/2022)\
 *University of Ofxord (01/2023-06/2023)
 
@@ -25,7 +25,8 @@ Dean's Honours List, University of Melbourne (2015)
 *CORE Brown Bag (Université catholique de Louvain)
 
 
-*yet to be completed\
-[updated pdf (dec 2022)]({{ site.url }}/download/cv.pdf)
+*planned\
+[updated pdf (dec 2022)]({{ site.url }}/download/cv.pdf)\
+[If you would like a full CV, let me know.](mailto:robin.ngjuipin@uclouvain.be)
 
 
