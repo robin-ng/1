@@ -4,9 +4,9 @@
   link: /research/
 - name: Teaching
   link: /teaching/
-- name: CV
-  link: /cv/
 - name: Contact
   link: /contact/
+- name: CV
+  link: /cv/
 - name: eggs
   link: /eggs/ 
