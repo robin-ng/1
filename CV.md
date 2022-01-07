@@ -11,7 +11,7 @@ BSc in Economics, Singapore Management University (2018)
 
 ##### Research Visits
 *Paris School of Economics (02/2022-05/2022)\
-*University of Ofxord (01/2023-06/2023)
+*University of Oxford (01/2023-06/2023)
 
 ##### Awards
 PhD Fellowship, Université catholique de Louvain (2019-2023)\
