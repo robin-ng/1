@@ -21,7 +21,7 @@ Dean's List, Singapore Management University (2016 & 2017)\
 Dean's Honours List, University of Melbourne (2015)
 
 ##### 2022- Presentations
-*AMSE PhD Seminar (Aix-Marseille School of Economics)
+*AMSE PhD Seminar (Aix-Marseille School of Economics)\
 *CORE Brown Bag (Université catholique de Louvain)
 
 
