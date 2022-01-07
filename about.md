@@ -5,7 +5,7 @@ permalink: /
 ---
 
 I am a Ph.D. candidate at the Center for Operations Research and Econometrics (CORE), Université catholique de Louvain.\
-My research interest are industrial organization, behavioural economics, and broadly applied microeconomic theory.
+My research interest are industrial organization, behavioral economics, and broadly applied microeconomic theory.
 
 I am a part of the "Platform Regulation and Operations in the Sharing Economy" research team and am affiliated with ROSELS.\
 I currently organise the CORE brown bag.
