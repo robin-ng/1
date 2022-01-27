@@ -10,7 +10,7 @@ MPhil in Economics, Singapore Management University (2019)\
 BSc in Economics, Singapore Management University (2018)
 
 ##### Research Visits
-*Paris School of Economics (02/2022-05/2022)\
+Paris School of Economics (02/2022-05/2022)\
 *University of Oxford (01/2023-06/2023)
 
 ##### Awards
@@ -22,7 +22,8 @@ Dean's Honours List, University of Melbourne (2015)
 
 ##### 2022- Presentations
 *AMSE PhD Seminar (Aix-Marseille School of Economics)\
-*CORE Brown Bag (Université catholique de Louvain)
+*Fourth International Workshop on “Market Studies and Spatial Economics” (Higher School of Economics)\
+CORE Brown Bag (Université catholique de Louvain)
 
 
 *planned\
