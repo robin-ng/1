@@ -4,6 +4,8 @@ title: Robin Ng
 permalink: /
 ---
 
+**I am currently visiting Paris School of Economics, lets meet!**
+
 I am a Ph.D. candidate at the Center for Operations Research and Econometrics (CORE), Université catholique de Louvain.\
 My research interest are industrial organization, behavioral economics, applied microeconomic theory.
 
