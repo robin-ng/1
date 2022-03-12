@@ -4,7 +4,7 @@ title: Robin Ng
 permalink: /
 ---
 
-<span style="color:red">**I am currently visiting Paris School of Economics, lets meet!**
+<span style="color:orange">**I am currently visiting Paris School of Economics, lets meet!**
 </span>
 
 I am a Ph.D. candidate at the Center for Operations Research and Econometrics (CORE), Université catholique de Louvain.\
