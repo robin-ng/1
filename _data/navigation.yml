@@ -4,9 +4,9 @@
   link: /research/
 - name: Teaching
   link: /teaching/
-- name: Contact
-  link: /contact/
 - name: CV
   link: /cv/
+- name: Contact
+  link: /contact/
 - name: Misc.
   link: /miscellanea/
