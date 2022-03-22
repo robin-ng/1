@@ -15,10 +15,11 @@ Recent evidence suggests online ratings and reviews are intrinsically motivated 
 
 **Ratings with Heterogeneous Preferences** with [Jonathan Lafky](https://sites.google.com/site/jonathanlafky/home) \
 Abstract:\
-We ask how ratings are interpreted in the presence of heterogeneous preferences among both raters and consumers. We consider a ratings environment in which ratings are provided for products with two dimensions of quality, and both consumers and raters have heterogeneous preferences over each of the dimensions. Under the assumption that raters are altruistic, raters should attempt to maximize the expected utility of consumers. However, an ambiguity arises in the presence of heterogenous preferences, in that multiple equilibria exist, one in which ratings serve as an expression of the rater's own payoffs, and one in which ratings are instead an expression of the expected payoff to consumers. We show how ratings change when raters are aware of their unusual preferences. We also study the role that common knowledge – information about who left a rating, or verifiable product qualities – plays in affecting the equilibrium ratings.
+Coming Soon<sup>TM</sup>
 
 
-**Open-Sourced Competition** 
-Abstract: Coming Soon<sup>TM</sup>
+**Open-Sourced Competition** \
+Abstract:\
+Coming Soon<sup>TM</sup>
 
 
