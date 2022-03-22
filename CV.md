@@ -10,7 +10,7 @@ MPhil in Economics, Singapore Management University (2019)\
 BSc in Economics, Singapore Management University (2018)
 
 ##### Research Visits
-*University of Oxford (01/2023-06/2023)\
+*University of Oxford (2023)\
 Paris School of Economics (02/2022-05/2022)
 
 ##### Awards
@@ -25,7 +25,7 @@ Dean's Honours List, University of Melbourne (2015)
 *FUR 2022 (UGhent)\
 *ECORES Summer School (KUL)\
 *SMYE 2022 (UO)\
-*4th MSSE (HSE)
+4th MSSE (HSE - Cancelled)
 
 
 *planned\
