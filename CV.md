@@ -11,7 +11,7 @@ BSc in Economics, Singapore Management University (2018)
 
 ##### Research Visits
 *University of Oxford (2023)\
-Paris School of Economics (02/2022-05/2022)
+Paris School of Economics (02/2022-07/2022)
 
 ##### Awards
 PhD Fellowship, Université catholique de Louvain (2019-2023)\
@@ -21,12 +21,11 @@ Excellence Award, Singapore Management University (2018)\
 Dean's List, Singapore Management University (2016 & 2017)\
 Dean's Honours List, University of Melbourne (2015)
 
-##### 2022- Upcoming Presentations
+##### Upcoming Presentations
 *FUR 2022 (UGhent)\
 *ECORES Summer School (KUL)\
 *SMYE 2022 (UO)\
-4th MSSE (HSE - Cancelled)
-
+*AMSE Seminar (AMSE)
 
 *planned\
 [updated pdf (dec 2022)]({{ site.url }}/download/cv.pdf)\
