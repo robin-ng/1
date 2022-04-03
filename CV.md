@@ -28,7 +28,7 @@ Dean's Honours List, University of Melbourne (2015)
 *AMSE Seminar (AMSE)
 
 *planned\
-[updated pdf (dec 2022)]({{ site.url }}/download/cv.pdf)\
+[updated pdf (March 2022)]({{ site.url }}/download/cv.pdf)\
 [If you would like a full CV, let me know.](mailto:robin.ngjuipin@uclouvain.be)
 
 
