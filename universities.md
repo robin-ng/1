@@ -3,7 +3,6 @@ layout: page
 title: Pretty Buildings
 permalink: /universities/
 ---
-# Thank you for hosting me!
 
 <br/>
 <center>Aix-Marseille Université</center>
