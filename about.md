@@ -10,7 +10,7 @@ permalink: /
 I am a Ph.D. candidate at the Center for Operations Research and Econometrics (CORE), Université catholique de Louvain.\
 My research interest are industrial organization, behavioral economics, applied microeconomic theory.
 
-My wonderful supervisors are (in no particular order of preference) Paul Belleflamme and Johannes Johnen. 
+My wonderful supervisors are (in no particular order) Paul Belleflamme and Johannes Johnen. 
 
 I am a part of the "Platform Regulation and Operations in the Sharing Economy" research team and am affiliated with ROSELS.\
 I currently organise the CORE brown bag and IO reading group.
