@@ -8,4 +8,5 @@ This is a completely random collection.
 
 ##### [eggs]({{ site.url }}/eggs/)
 
+##### [eggs]({{ site.url }}/universities/)
 
