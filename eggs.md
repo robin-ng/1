@@ -8,6 +8,7 @@ permalink: /eggs/
 <center>Found some eggs!</center>
 <center><img src="{{site.baseurl}}/assets/images/eggs/hidden-eggs-1.jpg" alt="nest of eggs" width="500"/></center>
 <center><img src="{{site.baseurl}}/assets/images/eggs/easter-eggs-1.jpg" alt="easter eggs" width="500"/><img src="{{site.baseurl}}/assets/images/eggs/easter-eggs-2.jpg" alt="easter eggs" width="500"/></center>
+<center>Time to get cracking.</center>
 
 <br/>
 <center>This is an egg.</center>
