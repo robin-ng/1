@@ -32,7 +32,7 @@ SMYE 2022 (UO)
 
 
 *planned\
-[updated pdf (March 2022)]({{ site.url }}/download/cv.pdf)\
+[updated pdf (May 2022)]({{ site.url }}/download/cv.pdf)\
 [If you would like a full CV, let me know.](mailto:robin.ngjuipin@uclouvain.be)
 
 
