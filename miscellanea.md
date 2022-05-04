@@ -6,7 +6,7 @@ permalink: /miscellanea/
 
 This is a completely random collection. 
 
-##### [eggs]({{ site.url }}/eggs/)
+##### [Eggs]({{ site.url }}/eggs/)
 
 ##### [University Buildings]({{ site.url }}/universities/)
 
