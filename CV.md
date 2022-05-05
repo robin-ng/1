@@ -13,6 +13,14 @@ BSc in Economics, Singapore Management University (2018)
 *University of Oxford (2023)\
 Paris School of Economics (02/2022-07/2022)
 
+##### Upcoming Presentations
+49<sup>th</sup> EARIE (Universität Wien)\
+Platform Economics School (MaCCI)\
+FUR 2022 (UGhent)\
+Economics of Information and Communication Technologies (ZEW)\
+ECORES Summer School (KUL)\
+SMYE 2022 (UO)
+
 ##### Awards
 Graduate Research Fellowship, Singapore Management University (2022-2024)\
 PhD Fellowship, Université catholique de Louvain (2019-2023)\
@@ -21,14 +29,6 @@ Research Master Scholarship, Singapore Management University (2017-2019)\
 Excellence Award, Singapore Management University (2018)\
 Dean's List, Singapore Management University (2016 & 2017)\
 Dean's Honours List, University of Melbourne (2015)
-
-##### Upcoming Presentations
-49<sup>th</sup> EARIE (Universität Wien)\
-Platform Economics School (MaCCI)\
-FUR 2022 (UGhent)\
-Economics of Information and Communication Technologies (ZEW)\
-ECORES Summer School (KUL)\
-SMYE 2022 (UO)
 
 
 *planned\
