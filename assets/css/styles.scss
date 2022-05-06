@@ -8,28 +8,28 @@
 //
 // <details> tag
 //
-$grey-color:         #757575;
-$grey-color-darkish: darken($grey-color, 15%);
+//$grey-color:         #757575;
+//$grey-color-darkish: darken($grey-color, 15%);
 //$brand-color:        #2a7ae2;
-$details-background-color: #dbdbdb;
+//$details-background-color: #dbdbdb;
 
-details {
-    border-radius: 10px;
-    padding: 0px 0px;
-    margin-bottom: 30px;
-	margin-top: -15px;
-}
-details[open] {
-    background: $details-background-color;
-    padding: 0px 8px 8px 8px;
-}
-summary {
-    margin: 0px 0px -25px 0px;
-    outline:none;
-}
+//details {
+//  border-radius: 10px;
+//  padding: 0px 0px;
+//  margin-bottom: 30px;
+//	margin-top: -15px;
+//}
+//details[open] {
+//    background: $details-background-color;
+//    padding: 0px 8px 8px 8px;
+//}
+//summary {
+//    margin: 0px 0px 0px 0px;
+//    outline:none;
+//}
 //details summary {
 //    color: $brand-color;
 //}
-summary::marker {
-  content: "";
-}
+//summary::marker {
+//  content: "";
+//}

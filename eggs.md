@@ -1,6 +1,6 @@
 ---
 layout: page
-title: eggs
+title: Eggs
 permalink: /eggs/
 ---
 
