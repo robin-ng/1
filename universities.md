@@ -4,7 +4,7 @@ title: Pretty Buildings
 permalink: /universities/
 ---
 
-<center><span style="color:orange"><b>Thank you all for having me!</b> :smile:
+<center><span style="color:orange"><b>Thank you all for having me!</b> &#128513;
 </span></center>
 
 <left><i>click for images</i></left>
