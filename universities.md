@@ -8,21 +8,20 @@ permalink: /universities/
 </span></center>
 
 <left><i>click for images</i></left>
-<left><i>do you want to see the seminar rooms?</i></left>
 
 <details>
 <summary><b>Paris School of Economics</b></summary>
 <img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_1.jpg" alt="PSE" width="500"/>
-<img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_2.jpg" alt="PSE" width="500"/>
-<center>Stunning view of Paris. </center>
+<img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_2.jpg" alt="PSE" width="500"/><br/>
+<p style="margin: -15px 0px 10px 0px">Stunning view of Paris. </p>
 <img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_6f_view.jpg" alt="PSE view" width="500"/>
-<img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_garden.jpg" alt="PSE garden" width="500"/>
-<center>I really enjoyed my stay here. I certainly miss this view and all the lunches in the garden.</center>
+<img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_garden.jpg" alt="PSE garden" width="500"/><br/>
+<p style="margin: -15px 0px 10px 0px">I really enjoyed my stay here. I certainly miss this view and all the lunches in the garden.</p>
 </details>
 
 <details>
 <summary><b>Aix-Marseille Université</b></summary>
-The 'old'(?) AMSE building.<br/>
+<p style="margin: -15px 0px 10px 0px">The 'old'(?) AMSE building.</p>
 <img src="{{site.baseurl}}/assets/images/university_buildings/AMSE/AMSE_3.jpg" alt="AMSE" width="500"/><br/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/AMSE/AMSE_1.jpg" alt="AMSE MEGA" width="500"/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/AMSE/AMSE_2.jpg" alt="AMSE MEGA" width="500"/><br/>
@@ -35,3 +34,5 @@ The 'old'(?) AMSE building.<br/>
 <!--<center><img src="{{site.baseurl}}/assets/images/university_buildings/AMSE/AMSE_3.jpg" alt="AMSE" width="500"/></center>-->
 <!--<center>The MSE building has a very interesting fire escape.</center>-->
 </details>
+
+<left><i>do you want to see the seminar rooms?</i></left>
