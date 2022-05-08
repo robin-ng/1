@@ -11,16 +11,20 @@ permalink: /universities/
 
 <details>
 <summary><b>Paris School of Economics</b></summary>
-<i>more pictures to come</i><br>
-<!--<center>I really enjoyed my stay here. I certainly miss this view and all the lunches in the garden.</center>-->
+<img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_1.jpg" alt="PSE" width="500"/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_2.jpg" alt="PSE" width="500"/>
+<center>Stunning view of Paris. </center>
 <img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_6f_view.jpg" alt="PSE view" width="500"/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_garden.jpg" alt="PSE garden" width="500"/>
+<center>I really enjoyed my stay here. I certainly miss this view and all the lunches in the garden.</center>
 </details>
 
 <details>
 <summary><b>Aix-Marseille Université</b></summary>
 The 'old'(?) AMSE building.<br/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/AMSE/AMSE_3.jpg" alt="AMSE" width="500"/><br/>
-<img src="{{site.baseurl}}/assets/images/university_buildings/AMSE/AMSE_1.jpg" alt="AMSE MEGA" width="500"/><img src="{{site.baseurl}}/assets/images/university_buildings/AMSE/AMSE_2.jpg" alt="AMSE MEGA" width="500"/><br/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/AMSE/AMSE_1.jpg" alt="AMSE MEGA" width="500"/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/AMSE/AMSE_2.jpg" alt="AMSE MEGA" width="500"/><br/>
 <p style="margin: -15px 0px 10px 0px">Was lucky to present at the new AMSE building (MEGA), construction works were going on during my presentation!</p>
 </details>
 
