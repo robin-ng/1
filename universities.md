@@ -11,10 +11,10 @@ permalink: /universities/
 
 <details>
 <summary><b>Paris School of Economics</b></summary>
-PSE's building shared with ENS.<br/>
+Building shared by PSE and ENS.<br/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_1.jpg" alt="PSE" width="500"/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_2.jpg" alt="PSE" width="500"/><br/>
-Stunning view of Paris. <br/>
+Stunning view of Paris from the 6<sup>th</sup> floor. <br/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_6f_view.jpg" alt="PSE view" width="500"/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_garden.jpg" alt="PSE garden" width="500"/><br/>
 <p style="margin: -15px 0px 10px 0px">I really enjoyed my stay here. I certainly miss this view and all the lunches in the garden.</p>
