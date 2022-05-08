@@ -8,6 +8,7 @@ permalink: /universities/
 </span></center>
 
 <left><i>click for images</i></left>
+<left><i>do you want to see the seminar rooms?</i></left>
 
 <details>
 <summary><b>Paris School of Economics</b></summary>
