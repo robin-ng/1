@@ -32,7 +32,7 @@ Dean's Honours List, University of Melbourne (2015)
 
 
 *planned\
-[complete CV pdf (May 2022)]({{ site.url }}/download/cv.pdf)\
+[complete CV in pdf (May 2022)]({{ site.url }}/download/cv.pdf)\
 [If you would like a detailed CV do let me know.](mailto:robin.ngjuipin@uclouvain.be)
 
 

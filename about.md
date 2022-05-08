@@ -17,4 +17,4 @@ I currently organise the CORE brown bag and IO reading group.
 <!-- I also hold the graduate research fellowship grant from the social science research council. -->
 
 Email: [robin.ngjuipin@uclouvain.be](mailto:robin.ngjuipin@uclouvain.be)\
-CV: [short CV]({{ site.url }}/cv/) [complete CV pdf]({{ site.url }}/download/cv.pdf)
+CV: [short]({{ site.url }}/cv/) [complete (pdf)]({{ site.url }}/download/cv.pdf)
