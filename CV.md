@@ -14,12 +14,11 @@ BSc in Economics, Singapore Management University (2018)
 Paris School of Economics (02/2022-07/2022)
 
 ##### Upcoming Presentations
-49<sup>th</sup> EARIE (Universität Wien)\
+EEA-ESEM 2022 (Bocconi University)\
 Platform Economics School (MaCCI)\
 FUR 2022 (UGhent)\
 Economics of Information and Communication Technologies (ZEW)\
-ECORES Summer School (KUL)\
-SMYE 2022 (UO)
+ECORES Summer School (KUL)
 
 ##### Awards
 Graduate Research Fellowship, Singapore Management University (2022-2024)\

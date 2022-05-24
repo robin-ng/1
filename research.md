@@ -21,5 +21,3 @@ Coming Soon<sup>TM</sup>
 **Open-Sourced Competition** \
 Abstract:\
 Coming Soon<sup>TM</sup>
-
-
