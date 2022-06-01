@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagec
 title: Eggs
 permalink: /eggs/
 ---

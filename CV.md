@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: pagec
 title: Short Vitae 
 permalink: /cv/
 ---
@@ -13,12 +13,12 @@ BSc in Economics, Singapore Management University (2018)
 *University of Oxford (2023)\
 Paris School of Economics (02/2022-07/2022)
 
-##### Upcoming Presentations
+##### Upcoming Presentations 
 EEA-ESEM 2022 (Bocconi University)\
 Platform Economics School (MaCCI)\
 FUR 2022 (UGhent)\
 Economics of Information and Communication Technologies (ZEW)\
-ECORES Summer School (KUL)
+(PS: if this list is short, do invite me to present at your institution!)
 
 ##### Awards
 Graduate Research Fellowship, Singapore Management University (2022-2024)\

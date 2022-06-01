@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: page
 title: Research
 permalink: /research/
 ---
@@ -19,5 +19,9 @@ Coming Soon<sup>TM</sup>
 
 
 **Open-Sourced Competition** \
+Abstract:\
+Coming Soon<sup>TM</sup>
+
+**Competition through ratings** \
 Abstract:\
 Coming Soon<sup>TM</sup>
