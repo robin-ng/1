@@ -15,7 +15,7 @@ Most of my research focuses on issues of the digital economy, particularly on th
 My wonderful supervisors are Paul Belleflamme and Johannes Johnen. 
 
 I am a part of the "Platform Regulation and Operations in the Sharing Economy" research team and am affiliated with ROSELS.\
-I currently organise the CORE brown bag and IO reading group.
+I currently organise the CORE brown bag and IO reading group. Do email me if you wish to present at the CORE Brown Bag.
 
 Email: [robin.ngjuipin@uclouvain.be](mailto:robin.ngjuipin@uclouvain.be)\
 CV: [short]({{ site.url }}/cv/) [complete (pdf)]({{ site.url }}/download/cv.pdf)
