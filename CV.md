@@ -17,8 +17,7 @@ Paris School of Economics (02/2022-07/2022)
 EEA-ESEM 2022 (Bocconi University)\
 Platform Economics School (MaCCI)\
 FUR 2022 (UGhent)\
-Economics of Information and Communication Technologies (ZEW)\
-(PS: if this list is short, do invite me to present at your institution!)
+Economics of Information and Communication Technologies (ZEW)
 
 ##### Awards
 Graduate Research Fellowship, Singapore Management University (2022-2024)\

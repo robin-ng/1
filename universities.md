@@ -56,9 +56,10 @@ The 'old'(?) AMSE building.<br/>
 
 <details>
 <summary><b>Université Paris 1 Panthéon-Sorbonne</b></summary>
-<i>pictures to come</i><br/>
-The MSE building has a very interesting fire escape.<br/>
-<br/>
+A pretty building from the outside, with some unusual space choices inside.<br/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/MSE/MSE_1.jpg" alt="MSE" width="500"/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/MSE/MSE_2.jpg" alt="MSE_interior" width="500"/><br/>
+<p style="margin: -15px 0px 10px 0px">My first in person presentation at an external venue!</p>
 <p style="margin: -15px 0px 10px 0px; font-size:9pt">Behaviour Workgroup, 18<sup>th</sup> March 2022.</p>
 </details>
 

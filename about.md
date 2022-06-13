@@ -8,14 +8,32 @@ permalink: /
 **I am currently visiting Paris School of Economics, lets meet!**
 </span>
 
-I am a Ph.D. candidate at the Center for Operations Research and Econometrics (CORE), Université catholique de Louvain.\
-My research interest are industrial organization, behavioral economics, microeconomic theory.\
+
+<div class="box">
+<center><img src="{{site.baseurl}}/assets/images/robin.jpg" alt="" width="200px"/></center>
+<div style="text-align:center">
+<div style="display: inline-block; text-align: left;">
+Email: <a href="mailto:robin.ngjuipin@uclouvain.be">robin.ngjuipin@uclouvain.be</a><br/>
+CV: <a href="{{ site.url }}/cv/">short</a> <a href="{{ site.url }}/download/cv.pdf">complete(pdf)</a>
+</div>
+</div>
+</div>
+
+<div>
+<p>
+I am a Ph.D. candidate at the Center for Operations Research and Econometrics (CORE), Université catholique de Louvain. <br/>
+My research interest are industrial organization, behavioral economics, microeconomic theory. <br/>
 Most of my research focuses on issues of the digital economy, particularly on the formation, provision and manipulation of online ratings. 
+</p>
 
+<p>
 My wonderful supervisors are Paul Belleflamme and Johannes Johnen. 
+</p>
 
-I am a part of the "Platform Regulation and Operations in the Sharing Economy" research team and am affiliated with ROSELS.\
-I currently organise the CORE brown bag and IO reading group. Do email me if you wish to present at the CORE Brown Bag.
+<p>
+I am a part of the "Platform Regulation and Operations in the Sharing Economy" research team and am affiliated with ROSELS. <br/>
+I currently organise the CORE brown bag and IO reading group. Drop me a line if you wish to present at the CORE Brown Bag.
+</p>
+</div>
 
-Email: [robin.ngjuipin@uclouvain.be](mailto:robin.ngjuipin@uclouvain.be)\
-CV: [short]({{ site.url }}/cv/) [complete (pdf)]({{ site.url }}/download/cv.pdf)
+
