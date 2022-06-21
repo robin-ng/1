@@ -13,7 +13,7 @@ permalink: /
 <div style="text-align:center">
 <img src="{{site.baseurl}}/assets/images/robin.jpg" alt="" width="200px"/> <br/>
 <div style="display: inline-block; text-align: left;">
-Email: <a href="mailto:robin.ngjuipin@uclouvain.be">robin.ngjuipin@uclouvain.be</a><br/>
+Email: <a href="mailto:hello@robin-ng.com">hello@robin-ng.com</a><br/>
 CV: <a href="{{ site.url }}/cv/">short</a> <a href="{{ site.url }}/download/cv.pdf">complete(pdf)</a>
 </div>
 </div>

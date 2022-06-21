@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 ##### Sensible Contact Information
-Email: [robin.ngjuipin@uclouvain.be](mailto:robin.ngjuipin@uclouvain.be)
+Email: [hello@robin-ng.com](mailto:hello@robin-ng.com)
 
 ##### Location
 Center for Operations Research and Econometrics (CORE)\
