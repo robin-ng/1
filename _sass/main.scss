@@ -108,16 +108,10 @@ margin-right:25px;
 }
 }
 
-@media {
+@media (max-width:1000px), (max-height:475px){
 .box {
 flex-wrap: wrap;
-width:100%; 
+width:100%;
 float:left;
 }
 }
-
-
-
-
-
-
