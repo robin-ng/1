@@ -1,12 +1,12 @@
 ---
-layout: pagec
-title: 
+layout: pagea
+title:
 permalink: /
 ---
 
-<span style="color:orange">
+<!-- <span style="color:orange">
 **I am currently visiting Paris School of Economics, lets meet!**
-</span>
+</span> -->
 
 <div class="box">
 <div style="text-align:center">
@@ -19,23 +19,21 @@ CV: <a href="{{ site.url }}/cv/">short</a> <a href="{{ site.url }}/download/cv.p
 </div>
 
 <div>
-<p style="margin-bottom:5px">
-I am a Ph.D. candidate at the Center for Operations Research and Econometrics (CORE), Université catholique de Louvain. 
-</p>
-<p style="margin-bottom:5px">
-My research interest are industrial organization, behavioral economics, microeconomic theory. 
+<p style="margin-bottom:15px">
+I am a Ph.D. candidate at the Center for Operations Research and Econometrics (CORE), Université catholique de Louvain.
 </p>
 <p style="margin-bottom:15px">
-Most of my research focuses on issues of the digital economy, particularly on the formation, provision and manipulation of online ratings. 
+My research interest are industrial organization, behavioral economics, microeconomic theory. <br/>
+Most of my research focuses on issues of the digital economy, particularly on the formation, provision and manipulation of online ratings.
 </p>
 
 <p style="margin-bottom:15px">
-My wonderful supervisors are Paul Belleflamme and Johannes Johnen. 
-</p>
-
-<p style="margin-bottom:5px">
 I am a FNRS research fellow and a SSRC graduate research fellow. <br/>
 I am also affiliated with the PROSEco and ROSELS research groups.
+</p>
+
+<p style="margin-bottom:15px">
+My wonderful supervisors are Paul Belleflamme and Johannes Johnen.
 </p>
 
 <p style="margin-bottom:15px">
@@ -43,5 +41,3 @@ I currently organise the CORE brown bag and IO reading group. <br/>
 Drop me a line if you wish to present at the CORE Brown Bag.
 </p>
 </div>
-
-
