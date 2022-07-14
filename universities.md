@@ -22,6 +22,19 @@ Building shared by PSE and ENS.<br/>
 </details>
 
 <details>
+<summary><b>Universiteit Gent</b></summary>
+Taking photos of the Faculty of Economics and Business was crazy difficult, because it was surrounded by trees and other buildings.<br/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/UGent/UGent_1.jpg" alt="Gent" width="500"/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/UGent/UGent_2.jpg" alt="Gent" width="500"/><br/>
+<p style="margin: -15px 0px 0px 0px">This newer building stands out from its rather brutalist surroundings. 
+I thank the Professor who let me climb out his window to take the second photograph.</p>
+<img src="{{site.baseurl}}/assets/images/university_buildings/UGent/UGent_3.jpg" alt="Gent" width="500"/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/UGent/UGent_4.jpg" alt="Gent" width="500"/><br/>
+<p style="margin: -15px 0px 10px 0px">I rather enjoy the funky groves of this building.</p>
+<p style="margin: -15px 0px 10px 0px; font-size:9pt">FUR 2022, 12<sup>th</sup> Jul 2022.</p>
+</details>
+
+<details>
 <summary><b>Katholieke Universiteit Leuven</b></summary>
 KUL Faculty of Economics and Business.<br/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/KUL/KUL_2.jpg" alt="KUL_FEB" width="500"/>
@@ -64,3 +77,19 @@ A pretty building from the outside, with some unusual space choices inside.<br/>
 </details>
 
 <!--<left>do you want to see the seminar rooms?</left>-->
+
+<left>Not exactly universities</left>
+
+<details>
+<summary><b>Leibniz-Zentrum für Europäische Wirtschaftsforschung (ZEW)</b></summary>
+The top half of the building looks rather standard.<br/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/ZEW/ZEW_1.jpg" alt="ZEW" width="500"/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/ZEW/ZEW_2.jpg" alt="ZEW" width="500"/><br/>
+<p style="margin: -15px 0px 0px 0px">But watch out for the portholes!</p>
+<img src="{{site.baseurl}}/assets/images/university_buildings/ZEW/ZEW_porthole.jpg" alt="ZEW porthole" width="500"/><br/>
+<p style="margin: -15px 0px 10px 0px">Delightful to be able to present here <a href="/CORE_junior_digital_team/" style="text-decoration: none; color: inherit">alongside LMX and Ciotti</a>.</p>
+<p style="margin: -15px 0px 10px 0px; font-size:9pt">ZEW ICT Conference, 6<sup>th</sup> Jul 2022. </p>
+</details>
+
+
+
