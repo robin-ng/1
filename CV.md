@@ -18,7 +18,7 @@ Paris School of Economics (02/2022-07/2022)
 EEA-ESEM 2022 (Bocconi University)
 
 ##### Awards
-Research Fellow, FNRS (2022 - 2024)\
+Research Fellow, FNRS (2022-2024)\
 Graduate Research Fellowship, Singapore Management University (2022-2024)\
 PhD Fellowship, Université catholique de Louvain (2019-2023)\
 Mobility and Congress Funding, FNRS (2022)\
