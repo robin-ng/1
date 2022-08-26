@@ -28,7 +28,7 @@ Most of my research focuses on issues of the digital economy, particularly on th
 </p>
 
 <p style="margin-bottom:15px">
-I am a FNRS research fellow and a SSRC graduate research fellow. <br/>
+I hold a FNRS research fellowship and a SSRC graduate research fellowship. <br/>
 I am also affiliated with the PROSEco and ROSELS research groups.
 </p>
 
@@ -38,6 +38,6 @@ My wonderful supervisors are Paul Belleflamme and Johannes Johnen.
 
 <p style="margin-bottom:15px">
 I currently organise the CORE brown bag and IO reading group. <br/>
-Drop me a line if you wish to present at the CORE Brown Bag.
+Do drop me a line if you wish to talk about research!
 </p>
 </div>
