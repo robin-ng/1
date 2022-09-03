@@ -12,4 +12,4 @@ This is a completely random collection.
 
 ##### [University Buildings]({{ site.url }}/universities/)
 
-<!--##### [Brussels Ramen]({{ site.url }}/ramen_bru/)--!>
+<!--##### [Brussels Ramen]({{ site.url }}/ramen_bru/)-->
