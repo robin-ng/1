@@ -4,6 +4,15 @@ title:
 permalink: /
 ---
 
+
+<span style="color:orange">
+**I will be visiting Bonn this fall - lets meet!**
+</span>
+
+<span style="color:orange">
+**I am on the job market and will be available for interviews during both the EEA and AEA.**
+</span>
+
 <!-- <span style="color:orange">
 **I am currently visiting Paris School of Economics, lets meet!**
 </span> -->
@@ -38,6 +47,6 @@ My wonderful supervisors are Paul Belleflamme and Johannes Johnen.
 
 <p style="margin-bottom:15px">
 I currently organise the CORE brown bag and IO reading group. <br/>
-Do drop me a line if you wish to talk about research!
+Do drop me a line if you wish to talk!
 </p>
 </div>

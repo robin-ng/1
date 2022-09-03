@@ -10,6 +10,15 @@ permalink: /universities/
 <left><i>click for images</i></left>
 
 <details>
+<summary><b>Bocconi University</b></summary>
+I suppose the university has to be as extravagant as the city.<br/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/Bocconi/Bocconi_1.jpg" alt="Bocconi_EEA" width="500"/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/Bocconi/Bocconi_2.jpg" alt="Bocconi_birdcage" width="500"/><br/>
+<p style="margin: -15px 0px 10px 0px">First general conference!</p>
+<p style="margin: -15px 0px 10px 0px; font-size:9pt">EEA-ESEM, 24<sup>th</sup> August 2022.</p>
+</details>
+
+<details>
 <summary><b>Paris School of Economics</b></summary>
 Building shared by PSE and ENS.<br/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_1_c.jpg" alt="PSE" width="500"/>

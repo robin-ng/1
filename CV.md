@@ -15,7 +15,7 @@ BSc in Economics, Singapore Management University (2018)
 Paris School of Economics (02/2022-07/2022)
 
 ##### Upcoming Presentations 
-
+ESA-NA
 
 ##### Awards
 Research Fellow, FNRS (2022-2024)\
@@ -25,7 +25,7 @@ Mobility and Congress Funding, FNRS (2022)\
 Research Master Scholarship, Singapore Management University (2017-2019)
 
 *planned\
-[CV in pdf (July 2022)]({{ site.url }}/download/cv.pdf)\
+[CV in pdf (August 2022)]({{ site.url }}/download/cv.pdf)\
 [Do let me know if you would like a detailed CV.](mailto:hello@robin-ng.com)
 
 
