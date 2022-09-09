@@ -15,7 +15,7 @@ BSc in Economics, Singapore Management University (2018)
 Paris School of Economics (02/2022-07/2022)
 
 ##### Upcoming Presentations 
-ESA-NA
+*ESA-NA
 
 ##### Awards
 Research Fellow, FNRS (2022-2024)\
