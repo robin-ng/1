@@ -5,15 +5,15 @@ permalink: /
 ---
 
 
-<span style="color:orange">
+<span style="color:#ee6c4d">
 **I will be visiting Bonn this fall - lets meet!**
 </span>
 
-<span style="color:orange">
+<span style="color:#ee6c4d">
 **I am on the job market and will be available for interviews during both the EEA and AEA.**
 </span>
 
-<!-- <span style="color:orange">
+<!-- <span style="color:#ee6c4d">
 **I am currently visiting Paris School of Economics, lets meet!**
 </span> -->
 
