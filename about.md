@@ -9,9 +9,9 @@ permalink: /
 **I will be visiting Bonn this fall - lets meet!**
 </span>
 
-<span style="color:#ee6c4d">
+<!-- <span style="color:#ee6c4d">
 **I am on the job market and will be available for interviews during both the EEA and AEA.**
-</span>
+</span> -->
 
 <!-- <span style="color:#ee6c4d">
 **I am currently visiting Paris School of Economics, lets meet!**
@@ -29,8 +29,10 @@ CV: <a href="{{ site.url }}/cv/">short</a> <a href="{{ site.url }}/download/cv.p
 
 <div>
 <p style="margin-bottom:15px">
-I am a Ph.D. candidate at the Center for Operations Research and Econometrics (CORE), Université catholique de Louvain.
+I am a Ph.D. candidate at the Center for Operations Research and Econometrics (CORE), Université catholique de Louvain. <br/>
+I am happy to say that in 2023, I will be joining the University of Mannheim as a postdoc. 
 </p>
+
 <p style="margin-bottom:15px">
 My research interest are industrial organization, behavioral economics, microeconomic theory. <br/>
 Most of my research focuses on issues of the digital economy, particularly on the formation, provision and manipulation of online ratings.

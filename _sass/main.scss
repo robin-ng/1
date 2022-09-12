@@ -97,18 +97,18 @@ pre.highlight {
   }
 }
 
-@media (min-width:1200px) and (min-height:475px){
+@media (min-width:1250px) and (min-height:475px){
 .box {
 display: flex;
 flex-wrap: wrap;
 width:200px;
-min-height:300px;
+min-height:350px;
 float:left;
 margin-right:25px;
 }
 }
 
-@media (max-width:1200px), (max-height:475px){
+@media (max-width:1250px), (max-height:475px){
 .box {
 flex-wrap: wrap;
 width:100%;
