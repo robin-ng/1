@@ -11,7 +11,6 @@ BSc in Economics, Singapore Management University (2018)
 
 ##### Research Visits
 *University of Oxford (2023)\
-*University of Bonn (2022)\
 Paris School of Economics (02/2022-07/2022)
 
 ##### Upcoming Presentations 
