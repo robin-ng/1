@@ -15,7 +15,7 @@ Paris School of Economics (02/2022-07/2022)
 
 ##### Upcoming Presentations 
 No upcoming presentations. :neutral_face:\
-I will be excited to present my work at your department! :grin:
+I would be excited to share my work with your department! :grin:
 
 ##### Awards
 Research Fellowship, FNRS (2022-2024)\
