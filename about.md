@@ -17,7 +17,7 @@ permalink: /
 <div style="text-align:center">
 <img src="{{site.baseurl}}/assets/images/robin.jpg" alt="" width="200px"/> <br/>
 <div style="display: inline-block; text-align: left;">
-Email: <a href="mailto:hello@robin-ng.com">hello@robin-ng.com</a><br/>
+Email: <a href="mailto:robin@robin-ng.com">robin@robin-ng.com</a><br/>
 CV: <a href="{{ site.url }}/cv/">short</a> <a href="{{ site.url }}/download/cv.pdf">complete(pdf)</a>
 </div>
 </div>
@@ -25,8 +25,11 @@ CV: <a href="{{ site.url }}/cv/">short</a> <a href="{{ site.url }}/download/cv.p
 
 <div>
 <p style="margin-bottom:15px">
-I am a Ph.D. candidate at the Center for Operations Research and Econometrics (CORE), Université catholique de Louvain. <br/>
-I am happy to say that in 2023, I will be joining the University of Mannheim as a postdoc. 
+Welcome to my website! :smile:
+</p>
+
+<p style="margin-bottom:15px">
+I am Robin, a Ph.D. candidate at the Center for Operations Research and Econometrics (CORE), Université catholique de Louvain (UCLouvain). <br/>
 </p>
 
 <p style="margin-bottom:15px">
@@ -35,16 +38,18 @@ Most of my research focuses on issues of the digital economy, particularly on th
 </p>
 
 <p style="margin-bottom:15px">
+ If you are interested in ratings, do drop me a <a href="mailto:robin@robin-ng.com">line</a>! <br/>
+Or any topic of interest really. 
+</p>
+
+<p style="margin-bottom:15px">
 I hold a FNRS research fellowship and a SSRC graduate research fellowship. <br/>
-I am also affiliated with the PROSEco and ROSELS research groups.
+I am also affiliated with the PROSEco and ROSELS research groups. <br/>
+I will join the Platform Economics group at the University of Mannheim in 2023. 
 </p>
 
 <p style="margin-bottom:15px">
-My wonderful supervisors are Paul Belleflamme and Johannes Johnen.
+I am fortunate to have two wonderful supervisors: Paul Belleflamme and Johannes Johnen.
 </p>
 
-<p style="margin-bottom:15px">
-I currently organise the CORE brown bag and IO reading group. <br/>
-Do drop me a line if you wish to talk!
-</p>
 </div>

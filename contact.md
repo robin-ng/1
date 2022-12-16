@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 ##### Sensible Contact Information
-Email: [hello@robin-ng.com](mailto:hello@robin-ng.com)
+Email: [robin@robin-ng.com](mailto:robin@robin-ng.com)
 
 ##### Location
 Center for Operations Research and Econometrics (CORE)\
