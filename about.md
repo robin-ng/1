@@ -25,7 +25,7 @@ CV: <a href="{{ site.url }}/cv/">short</a> <a href="{{ site.url }}/download/cv.p
 
 <div>
 <p style="margin-bottom:15px">
-Welcome to my website! 
+Welcome to my website! :smile:
 </p>
 
 <p style="margin-bottom:15px">
