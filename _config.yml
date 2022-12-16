@@ -57,5 +57,3 @@ plugins:
   - jemoji
 
 markdown: kramdown
-
-gems: ["jemoji"]
