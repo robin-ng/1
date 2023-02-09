@@ -9,13 +9,12 @@ permalink: /cv/
 MPhil in Economics, Singapore Management University (2019)\
 BSc in Economics, Singapore Management University (2018)
 
-##### Research Visits
-*University of Oxford (2023)\
-Paris School of Economics (02/2022-07/2022)
-
 ##### Upcoming Presentations 
-No upcoming presentations. :neutral_face:\
-I would be excited to share my work with your department! :grin:
+Oxford Internet Institute 
+University of East Anglia
+
+<!--No upcoming presentations. :neutral_face:\
+I would be excited to share my work with your department! :grin:-->
 
 ##### Awards
 Research Fellowship, FNRS (2022-2024)\

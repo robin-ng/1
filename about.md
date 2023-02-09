@@ -25,7 +25,10 @@ CV: <a href="{{ site.url }}/cv/">short</a> <a href="{{ site.url }}/download/cv.p
 
 <div>
 <p style="margin-bottom:15px">
-Welcome to my website! :smile:
+Welcome to my website! :smile: <br/>
+<span style="color:#ee6c4d">
+**I am currently visiting Oxford Internet Institute, lets grab a coffee!**
+</span>
 </p>
 
 <p style="margin-bottom:15px">
@@ -39,7 +42,7 @@ Most of my research focuses on issues of the digital economy, particularly on th
 
 <p style="margin-bottom:15px">
  If you are interested in ratings, do drop me a <a href="mailto:robin@robin-ng.com">line</a>! <br/>
-Or any topic of interest really. 
+Or if you'd just like a chat.
 </p>
 
 <p style="margin-bottom:15px">
