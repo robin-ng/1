@@ -10,7 +10,7 @@ MPhil in Economics, Singapore Management University (2019)\
 BSc in Economics, Singapore Management University (2018)
 
 ##### Upcoming Presentations 
-Oxford Internet Institute 
+Oxford Internet Institute \
 University of East Anglia
 
 <!--No upcoming presentations. :neutral_face:\

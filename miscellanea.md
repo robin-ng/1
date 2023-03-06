@@ -12,6 +12,6 @@ A completely random collection.
 
 ##### [University Buildings]({{ site.url }}/universities/)
 
-##### [Food]({{ site.url }}/sgfood/)
+<!--##### [Food]({{ site.url }}/sgfood/)-->
 
 <!--##### [Brussels Ramen]({{ site.url }}/ramen_bru/)-->
