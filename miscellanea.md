@@ -10,7 +10,7 @@ A completely random collection.
 
 ##### [Movies]({{ site.url }}/movies/)
 
-##### [University Buildings]({{ site.url }}/universities/)
+<!--##### [University Buildings]({{ site.url }}/universities/) -->
 
 <!--##### [Food]({{ site.url }}/sgfood/)-->
 

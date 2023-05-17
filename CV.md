@@ -11,7 +11,7 @@ BSc in Economics, Singapore Management University (2018)
 
 ##### Upcoming Presentations 
 Oxford Internet Institute \
-University of East Anglia
+Asian Meeting of the Econometric Society
 
 <!--No upcoming presentations. :neutral_face:\
 I would be excited to share my work with your department! :grin:-->

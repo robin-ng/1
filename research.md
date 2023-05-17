@@ -28,4 +28,3 @@ Managers may adopt less restrictive software licenses to entice others to contri
 
 **Competition through ratings** \
 Abstract:\
-Coming Soon<sup>TM</sup>
