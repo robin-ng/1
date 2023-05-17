@@ -41,8 +41,9 @@ Most of my research focuses on issues of the digital economy, particularly on th
 </p>
 
 <p style="margin-bottom:15px">
- If you are interested in ratings, do drop me a <a href="mailto:robin@robin-ng.com">line</a>! <br/>
-Or if you'd just like a chat.
+If you are interested in ratings, <br/> 
+Or would simply like to chat about research, <br/>
+Drop me a <a href="mailto:robin@robin-ng.com">line</a>! <br/>
 </p>
 
 <p style="margin-bottom:15px">
