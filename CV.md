@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 
 ##### Education
-*Ph.D. in Economics, Université catholique de Louvain (2023)\
+Ph.D. in Economics, Université catholique de Louvain (2023)\
 MPhil in Economics, Singapore Management University (2019)\
 BSc in Economics, Singapore Management University (2018)
 
