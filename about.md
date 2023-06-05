@@ -47,7 +47,7 @@ Drop me a <a href="mailto:robin@robin-ng.com">line</a>! <br/>
 </p>
 
 <p style="margin-bottom:15px">
-I hold a FNRS research fellowship and a SSRC graduate research fellowship. <br/>
+I hold the FNRS research fellowship and SSRC graduate research fellowship. <br/>
 I am also affiliated with the PROSEco and ROSELS research groups. <br/>
 I will join the Platform Economics group at the University of Mannheim in 2023. 
 </p>
