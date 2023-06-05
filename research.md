@@ -23,7 +23,7 @@ We ask how ratings are interpreted in the presence of heterogeneous preferences 
 
 **Open-Sourced Competition** \
 Abstract:\
-Managers may adopt less restrictive software licenses to entice others to contribute to developing Free and Open Source Software (FOSS). They balance the following trade-offs: (i) additional contributors improve the overall quality of the software - a positive vertical differentiation effect; (ii) additional contributors lead to more diverse views, driving the characteristics of the software closer to those of existing products - a negative horizontal differentiation effect. I show that less restrictive licenses lower the barrier to entry for new FOSS, and intensify competition for a proprietary firm. I study altruistic and profit driven managers, showing that altruistic managers of FOSS result in lower welfare and profit driven managers generate higher welfare. 
+Coordinators may adopt less restrictive software licenses to entice others to contribute to developing Free and Open-Source Software (FOSS). They balance the following trade-offs: (i) additional contributors improve the overall quality of the software - a positive vertical differentiation effect; (ii) additional contributors lead to more diverse views, driving the characteristics of the software closer to those of existing products - a negative horizontal differentiation effect. I show that less restrictive licenses lower the barrier to entry for new FOSS, and intensify competition for a proprietary firm. I study self-interested, altruistic and profit-driven coordinators, showing that self-interested coordinators generate the highest welfare.
 
 
 **Competition through ratings** \
