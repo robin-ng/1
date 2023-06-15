@@ -10,6 +10,35 @@ permalink: /universities/
 <left><i>click for images</i></left>
 
 <details>
+<summary><b>University of Oxford</b></summary>
+A big thank you to <a href="https://sites.google.com/view/greg-taylor">Greg Taylor</a> for hosting me. <br/>
+<b> Oxford Internet Institute </b> <br/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/oxford/oii/41lounge.jpg" alt="OII_plaque" width="500"/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/oxford/oii/dphilroom.jpg" alt="OII_garden" width="500"/><br/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/oxford/oii/41lounge.jpg" alt="OII_lounge" width="500"/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/oxford/oii/dphilroom.jpg" alt="OII_dphil" width="500"/><br/>
+<p style="margin: 0px 0px 0px 0px"> <a href="/OII/" style="text-decoration: none; color: inherit">OII OII OII!</a> I do love the name of this institute. I heard that there will be a <a href="/construction/" style="text-decoration: none; color: inherit">new building soon</a>.</p>
+<b> Oxford Economics Department </b> <br/>
+<b> Nuffield College </b> <br/>
+<b> Exeter College </b> <br/> 
+<img src="{{site.baseurl}}/assets/images/university_buildings/oxford/exeter/exeter_chapel.jpg" alt="Exeter_chapel" width="500"/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/oxford/exeter/exeter_chapel_inside.jpg" alt="Exeter_chapel_inside" width="500"/><br/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/oxford/exeter/exeter_radcam.jpg" alt="Exeter_radcam" width="500"/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/oxford/exeter/exeter_dininghall.jpg" alt="Exeter_dining" width="500"/><br/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/oxford/exeter/exeter_fellowsgarden.jpg" alt="Exeter_garden" width="500"/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/oxford/exeter/exeter_bar.jpg" alt="Exeter_radcam" width="500"/><br/>
+<p style="margin: 0px 0px 10px 0px">Being part of Exeter has <a href="/portriat/" style="text-decoration: none; color: inherit">opened my eyes</a> to how the UK works.</p> 
+<p style="margin: -15px 0px 10px 0px">Thanks for the great <a href="/exeter_formal/" style="text-decoration: none; color: inherit">conversations</a>, <a href="/read_a_book/" style="text-decoration: none; color: inherit">books</a>, falling down on <a href="/icesticks/" style="text-decoration: none; color: inherit">ice</a>, and certainly the <a href="/undercroft/" style="text-decoration: none; color: inherit">alcohol</a>.</p>
+<p style="margin: -15px 0px 10px 0px; font-size:9pt">Visit, Jan-Jul 2023.</p>
+</details>
+
+<details>
+<summary><b>University of East Anglia </b></summary>
+I forgot to take pictures, but this was a stunning place, an amazing university surrounded by beautiful parks! <br/>
+<p style="margin: 0px 0px 10px 0px; font-size:9pt"> CBESS, 16<sup>th</sup> May 2023.</p>
+</details>
+
+<details>
 <summary><b>Bocconi University</b></summary>
 I suppose the university has to be as extravagant as the city.<br/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/Bocconi/Bocconi_1.jpg" alt="Bocconi_EEA" width="500"/>
@@ -20,13 +49,14 @@ I suppose the university has to be as extravagant as the city.<br/>
 
 <details>
 <summary><b>Paris School of Economics</b></summary>
+Shout out to <a href="https://www.parisschoolofeconomics.eu/en/caillaud-bernard/">Bernard Caillaud</a> for having me. <br/>
 Building shared by PSE and ENS.<br/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_1_c.jpg" alt="PSE" width="500"/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_2_c.jpg" alt="PSE" width="500"/><br/>
 <p style="margin: 0px 0px 0px 0px">Stunning view of Paris from the 6<sup>th</sup> floor.</p>
 <img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_6f_view_c.jpg" alt="PSE view" width="500"/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/PSE/PSE_garden_c.jpg" alt="PSE garden" width="500"/><br/>
-<p style="margin: 0px 0px 10px 0px">I really enjoyed my stay here. I certainly miss this view and all the lunches and <a href="/PSEdinner/" style="text-decoration: none; color: inherit">dinners</a> in the garden.</p>
+<p style="margin: 0px 0px 10px 0px">I really enjoyed my stay here. I certainly miss this view, <a href="/friends/" style="text-decoration: none; color: inherit">my friends</a>, and all the lunches and <a href="/PSEdinner/" style="text-decoration: none; color: inherit">dinners</a> in the garden.</p>
 <p style="margin: -15px 0px 10px 0px; font-size:9pt">Visit, Feb-Jul 2022; PhD Seminar, 29<sup>th</sup> March 2022; Theory Seminar, 19<sup>th</sup> June 2022.</p>
 </details>
 
