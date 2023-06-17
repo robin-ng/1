@@ -13,6 +13,7 @@ permalink: /
 **I am currently visiting Paris School of Economics, lets meet!**
 </span> -->
 
+<!--
 <div class="box">
 <div style="text-align:center">
 <!-- <img src="{{site.baseurl}}/assets/images/robin.jpg" alt="" width="200px"/> <br/> -->
@@ -22,6 +23,7 @@ CV: <a href="{{ site.url }}/cv/">short</a> <a href="{{ site.url }}/download/cv.p
 </div>
 </div>
 </div>
+-->
 
 <div>
 <p style="margin-bottom:15px">
