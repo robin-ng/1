@@ -48,7 +48,7 @@ Rear Window
 
 I also have an unhealthy love for movies that revolve around phones.\
 This started with the movie Phone Booth (2002). \
-While I do enjoy these movies tremendously, I may not generally recommend them.
+While I tremendously enjoy these movies, I may not generally recommend them.
 
 **Phone Movies**	\
 Cellular (2004) 	\
