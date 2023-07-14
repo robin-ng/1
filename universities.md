@@ -18,8 +18,6 @@ A big thank you to <a href="https://sites.google.com/view/greg-taylor">Greg Tayl
 <img src="{{site.baseurl}}/assets/images/university_buildings/oxford/oii/41lounge.jpg" alt="OII_lounge" width="500"/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/oxford/oii/dphilroom.jpg" alt="OII_dphil" width="500"/><br/>
 <p style="margin: 0px 0px 0px 0px"> <a href="/OII/" style="text-decoration: none; color: inherit">OII OII OII!</a> I do love the name of this institute. I heard that there will be a <a href="/construction/" style="text-decoration: none; color: inherit">new building soon</a>.</p>
-<b> Oxford Economics Department </b> <br/>
-<b> Nuffield College </b> <br/>
 <b> Exeter College </b> <br/> 
 <img src="{{site.baseurl}}/assets/images/university_buildings/oxford/exeter/exeter_chapel.jpg" alt="Exeter_chapel" width="500"/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/oxford/exeter/exeter_chapel_inside.jpg" alt="Exeter_chapel_inside" width="500"/><br/>
