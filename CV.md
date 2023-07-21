@@ -10,11 +10,8 @@ MPhil in Economics, Singapore Management University (2019)\
 BSc in Economics, Singapore Management University (2018)
 
 ##### Upcoming Presentations 
-Oxford Internet Institute \
-Asian Meeting of the Econometric Society
-
-<!--No upcoming presentations. :neutral_face:\
-I would be excited to share my work with your department! :grin:-->
+No upcoming presentations. :neutral_face:\
+I would be excited to share my work with your department! :grin:
 
 ##### Awards
 Research Fellowship, FNRS (2022-2024)\

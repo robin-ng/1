@@ -13,6 +13,11 @@ permalink: /
 **I am currently visiting Paris School of Economics, lets meet!**
 </span> -->
 
+<!-- <span style="color:#ee6c4d">
+**I am currently visiting Oxford Internet Institute, lets grab a coffee!**
+</span> -->
+
+
 <!--
 <div class="box">
 <div style="text-align:center">
@@ -28,9 +33,6 @@ CV: <a href="{{ site.url }}/cv/">short</a> <a href="{{ site.url }}/download/cv.p
 <div>
 <p style="margin-bottom:15px">
 Welcome to my website! :smile: <br/>
-<span style="color:#ee6c4d">
-**I am currently visiting Oxford Internet Institute, lets grab a coffee!**
-</span>
 </p>
 
 <p style="margin-bottom:15px">
