@@ -5,6 +5,7 @@ permalink: /teaching/
 ---
 
 ##### Instructor
+Internet Economics, University of Mannheim\
 Economic Ideas and Models, Singapore University of Social Sciences\
 Statistics, Singapore University of Social Sciences
 

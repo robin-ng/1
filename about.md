@@ -41,7 +41,9 @@ I am Robin, a Ph.D. candidate at the Center for Operations Research and Economet
 
 <p style="margin-bottom:15px">
 My research interest are industrial organization, behavioral economics, microeconomic theory. <br/>
+<--
 Most of my research focuses on issues of the digital economy, particularly on the formation, provision and manipulation of online ratings.
+-->
 </p>
 
 <p style="margin-bottom:15px">
@@ -50,6 +52,7 @@ Or would simply like to chat, <br/>
 Drop me a <a href="mailto:robin@robin-ng.com">line</a>! <br/>
 </p>
 
+<--
 <p style="margin-bottom:15px">
 I hold the FNRS research fellowship and SSRC graduate research fellowship. <br/>
 I am also affiliated with the PROSEco and ROSELS research groups. <br/>
@@ -59,5 +62,7 @@ I will join the Platform Economics group at the University of Mannheim in 2023.
 <p style="margin-bottom:15px">
 I am fortunate to have two wonderful supervisors: Paul Belleflamme and Johannes Johnen.
 </p>
+-->
+
 
 </div>
