@@ -18,17 +18,16 @@ permalink: /
 </span> -->
 
 
-<!--
+
 <div class="box">
 <div style="text-align:center">
-<img src="{{site.baseurl}}/assets/images/robin.jpg" alt="" width="200px"/> <br/>
+<!-- <img src="{{site.baseurl}}/assets/images/robin.jpg" alt="" width="200px"/> <br/> -->
 <div style="display: inline-block; text-align: left;">
-Email: <a href="mailto:robin@robin-ng.com">robin@robin-ng.com</a><br/>
-CV: <a href="{{ site.url }}/cv/">short</a> <a href="{{ site.url }}/download/cv.pdf">complete(pdf)</a>
+<!-- Email: <a href="mailto:robin@robin-ng.com">robin@robin-ng.com</a><br/>
+CV: <a href="{{ site.url }}/cv/">short</a> <a href="{{ site.url }}/download/cv.pdf">complete(pdf)</a> -->
 </div>
 </div>
 </div>
--->
 
 <div>
 <p style="margin-bottom:15px">
@@ -41,9 +40,7 @@ I am Robin, a Ph.D. candidate at the Center for Operations Research and Economet
 
 <p style="margin-bottom:15px">
 My research interest are industrial organization, behavioral economics, microeconomic theory. <br/>
-<!--
-Most of my research focuses on issues of the digital economy, particularly on the formation, provision and manipulation of online ratings.
--->
+<!-- Most of my research focuses on issues of the digital economy, particularly on the formation, provision and manipulation of online ratings. -->
 </p>
 
 <p style="margin-bottom:15px">
@@ -52,8 +49,7 @@ Or would simply like to chat, <br/>
 Drop me a <a href="mailto:robin@robin-ng.com">line</a>! <br/>
 </p>
 
-<!--
-<p style="margin-bottom:15px">
+<!-- <p style="margin-bottom:15px">
 I hold the FNRS research fellowship and SSRC graduate research fellowship. <br/>
 I am also affiliated with the PROSEco and ROSELS research groups. <br/>
 I will join the Platform Economics group at the University of Mannheim in 2023. 
@@ -61,8 +57,7 @@ I will join the Platform Economics group at the University of Mannheim in 2023.
 
 <p style="margin-bottom:15px">
 I am fortunate to have two wonderful supervisors: Paul Belleflamme and Johannes Johnen.
-</p>
--->
+</p> -->
 
 
 </div>
