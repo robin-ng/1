@@ -10,6 +10,34 @@ permalink: /universities/
 <left><i>click for images</i></left>
 
 <details>
+<summary><b>University of Mannheim</b></summary>
+<!--
+I am currently a PostDoc at the University of Mannheim.<br/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/mannheim/myoffice.jpg" alt="MA_office" width="500"/><br/>
+<p style="margin: 0px 0px 0px 0px"> </p>
+<img src="{{site.baseurl}}/assets/images/university_buildings/mannheim/teaching.jpg" alt="MA_lecture" width="500"/><br/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/mannheim/thecastleandi.jpg" alt="MA_castle" width="500"/><br/>
+ <br/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/mannheim/myoffice_2.jpg" alt="MA_office2" width="500"/>
+<p style="margin: 0px 0px 0px 0px">I just love making the space my own. </p>
+--!>
+</details>
+
+<details>
+<summary><b>Université catholique de Louvain</b></summary>
+I completed my PhD at CORE, and had an amazing time in LLN. <br/>
+<img src="{{site.baseurl}}/assets/images/university_buildings/UCLouvain/LLN_square.jpg" alt="Louvain" width="500"/><br/>
+<p style="margin: 0px 0px 0px 0px">Somehow I managed to find the hidden entrance to CORE on my first day.... It has since become much nicer. But when will the new building arrive? </p>
+<img src="{{site.baseurl}}/assets/images/university_buildings/UCLouvain/mysterious_core.jpg" alt="CORE" width="500"/><br/>
+And my lovely office. 
+<img src="{{site.baseurl}}/assets/images/university_buildings/UCLouvain/office_1.jpg" alt="Office" width="500"/><br/>
+I felt weird looking at someone's face everyday while they worked. <br/>
+So.... we remodeled! 
+<img src="{{site.baseurl}}/assets/images/university_buildings/UCLouvain/office_2.jpg" alt="Office_remodeled" width="500"/>
+<p style="margin: 0px 0px 0px 0px">Now we faced a gym, I am not sure that was much better! But it did feel more spacious.... </p>
+</details>
+
+<details>
 <summary><b>University of Oxford</b></summary>
 A big thank you to <a href="https://sites.google.com/view/greg-taylor">Greg Taylor</a> for hosting me. <br/>
 <b> Oxford Internet Institute </b> <br/>
