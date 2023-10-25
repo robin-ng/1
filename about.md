@@ -25,7 +25,7 @@ My research interest lies somewhere in the venn diagram of the fields of Industr
 </p>
 
 <p style="margin-bottom:15px">
-I am affiliated to the <a title="Collaborative Research Center Transregio 224 Project B05, https://www.crctr224.de/"><i>CRC TR 224 B05</i></a> and the <a title="Mannheim Centre for Competition and Innovation, https://www.macci-mannheim.eu/"><i>MaCCI</i></a>. <br/> 
+I am affiliated to the <a title="Collaborative Research Center Transregio 224 Project B05"><i>CRC TR 224 B05</i></a> and the <a title="Mannheim Centre for Competition and Innovation"><i>MaCCI</i></a>. <br/> 
 I also hold the <a title="Social Science Research Council (Singapore) Graduate Research Fellowship"><i>SSRC GRF</i></a>. 
 </p>
 
