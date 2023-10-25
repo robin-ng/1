@@ -17,6 +17,7 @@ CV: <a href="{{ site.url }}/cv/">link</a> <a href="{{ site.url }}/download/cv.pd
 <div>
 <p style="margin-bottom:15px">
 Hello, I am Robin. Welcome to my website! :smile: <br/>
+I am currently a Post-Doctoral Researcher at the University of Mannheim. <br/>
 </p>
 
 <p style="margin-bottom:15px">
@@ -24,9 +25,8 @@ My research interest lies somewhere in the venn diagram of the fields of Industr
 </p>
 
 <p style="margin-bottom:15px">
-I am currently a Post-Doctoral Researcher at the University of Mannheim. <br/>
-With affiliations to the CRC TR 224 B05 and the MaCCI. <br/> 
-I also hold the Social Science Research Council graduate research fellowship. 
+I am affiliated to the CRC TR 224 B05 and the MaCCI. <br/> 
+I also hold the <a title="Social Science Research Council (Singapore) Graduate Research Fellowship">SSRC GRF</a>. 
 </p>
 
 <p style="margin-bottom:15px">
