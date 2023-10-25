@@ -26,7 +26,7 @@ My research interest lies somewhere in the venn diagram of the fields of Industr
 
 <p style="margin-bottom:15px">
 I am affiliated to the CRC TR 224 B05 and the MaCCI. <br/> 
-I also hold the <a title="Social Science Research Council (Singapore) Graduate Research Fellowship">SSRC GRF</a>. 
+I also hold the <span title="Social Science Research Council (Singapore) Graduate Research Fellowship">SSRC GRF</span>. 
 </p>
 
 <p style="margin-bottom:15px">
