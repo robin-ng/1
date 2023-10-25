@@ -5,10 +5,18 @@ permalink: /teaching/
 ---
 
 ##### Instructor
-Internet Economics, University of Mannheim\
-Economic Ideas and Models, Singapore University of Social Sciences\
-Statistics, Singapore University of Social Sciences
+
+###### University of Mannheim
+Internet Economics\
+Microeconomics A
+
+###### Singapore University of Social Sciences 
+Economic Ideas and Models\
+Statistics
 
 ##### Teaching Assistant
-Macroeconomic Analysis, Singapore Management University\
-Applied Calculus for Economics, Singapore Management University
+
+###### Singapore Management University
+Macroeconomic Analysis\
+Applied Calculus for Economics\
+Other Business and Information Systems courses

@@ -29,10 +29,10 @@ I completed my PhD at CORE, and had an amazing time in LLN. <br/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/UCLouvain/LLN_square.jpg" alt="Louvain" width="500"/><br/>
 <p style="margin: 0px 0px 0px 0px">Somehow I managed to find the hidden entrance to CORE on my first day.... It has since become much nicer. But when will the new building arrive? </p>
 <img src="{{site.baseurl}}/assets/images/university_buildings/UCLouvain/mysterious_core.jpg" alt="CORE" width="500"/><br/>
-And my lovely office. 
+And my lovely office.<br/> 
 <img src="{{site.baseurl}}/assets/images/university_buildings/UCLouvain/office_1.jpg" alt="Office" width="500"/><br/>
 I felt weird looking at someone's face everyday while they worked. <br/>
-So.... we remodeled! 
+So.... we remodeled! <br/>
 <img src="{{site.baseurl}}/assets/images/university_buildings/UCLouvain/office_2.jpg" alt="Office_remodeled" width="500"/>
 <p style="margin: 0px 0px 0px 0px">Now we faced a gym, I am not sure that was much better! But it did feel more spacious.... </p>
 </details>
