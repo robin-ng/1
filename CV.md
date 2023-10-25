@@ -10,9 +10,9 @@ MPhil in Economics, Singapore Management University (2019)\
 BSc in Economics, Singapore Management University (2018)
 
 ##### Upcoming Presentations 
-EWMES 2023; CORE(UCLouvain)\
-<!-- No upcoming presentations. :neutral_face:\ -->
-I would be excited to share my work with your department! :grin:
+EWMES 2023; CORE(UCLouvain)
+<!-- No upcoming presentations. :neutral_face:\ 
+I would be excited to share my work with your department! :grin: -->
 
 ##### Awards
 Research Fellowship, FNRS (2022-2024)\
