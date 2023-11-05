@@ -20,7 +20,7 @@ Graduate Research Fellowship, Singapore Management University (2022-2024)\
 PhD Fellowship, Université catholique de Louvain (2019-2022)\
 Research Master Scholarship, Singapore Management University (2017-2019)
 
-[CV in pdf (December 2022)]({{ site.url }}/download/cv.pdf)\
+[CV in pdf (October 2023)]({{ site.url }}/download/cv.pdf)\
 [Do let me know if you would like a detailed/updated CV.](mailto:robin@robin-ng.com)
 
 
