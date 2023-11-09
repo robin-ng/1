@@ -4,6 +4,10 @@ title:
 permalink: /
 ---
 
+<span style="color:#ee6c4d">
+**Happy to have a new domain <a href="www.robinng.com">robinng.com</a>**
+</span>
+
 <div class="box">
 <div style="text-align:center">
 <img src="{{site.baseurl}}/assets/images/" alt="" width="200px"/> <br/>
