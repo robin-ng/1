@@ -5,7 +5,7 @@ permalink: /contact/
 ---
 
 ##### Sensible Contact Information
-Email: [robin@robin-ng.com](mailto:robin@robin-ng.com)
+Email: [hello@robinng.com](mailto:hello@robinng.com)
 <p>
 University Email: robin.ng@uni-mannheim.de <br/>
 (If you prefer to contact me here, please expect an exceptionally delayed reply.)
@@ -18,5 +18,5 @@ L7, 3-5 - Room 331\
 68161 Mannheim, Germany
 
 ##### E-Location
-Website: [robin-ng.com](https://robin-ng.com)
+Website: [robinng.com](https://robinng.com)
 

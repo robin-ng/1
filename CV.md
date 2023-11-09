@@ -21,6 +21,6 @@ PhD Fellowship, Université catholique de Louvain (2019-2022)\
 Research Master Scholarship, Singapore Management University (2017-2019)
 
 [CV in pdf (October 2023)]({{ site.url }}/download/cv.pdf)\
-[Do let me know if you would like a detailed/updated CV.](mailto:robin@robin-ng.com)
+[Do let me know if you would like a detailed/updated CV.](mailto:hello@robinng.com)
 
 

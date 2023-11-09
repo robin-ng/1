@@ -12,7 +12,7 @@ permalink: /
 <div style="text-align:center">
 <img src="{{site.baseurl}}/assets/images/" alt="" width="200px"/> <br/>
 <div style="display: inline-block; text-align: left;">
-Email: <a href="mailto:robin@robin-ng.com">robin@robin-ng.com</a><br/>
+Email: <a href="mailto:hello@robinng.com">hello@robinng.com</a><br/>
 CV: <a href="{{ site.url }}/cv/">link</a> <a href="{{ site.url }}/download/cv.pdf">download</a>
 </div>
 </div>
@@ -35,7 +35,7 @@ I also hold the <a title="Social Science Research Council (Singapore) Graduate R
 
 <p style="margin-bottom:15px">
 I am always excited to speak to other researchers. <br/>
-Do drop me a <a href="mailto:robin@robin-ng.com">line</a> if you'd like to be in touch! <br/>
+Do drop me a <a href="mailto:hello@robinng.com">line</a> if you'd like to be in touch! <br/>
 </p>
 
 
