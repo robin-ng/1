@@ -5,7 +5,7 @@ permalink: /
 ---
 
 <span style="color:#ee6c4d">
-**Happy to have a new domain <a href="www.robinng.com">robinng.com</a>**
+**Happy to have a new domain <a href="https://robinng.com/">robinng.com</a>**
 </span>
 
 <div class="box">
